@@ -1300,9 +1300,7 @@ audio {
         background-color: #466baf;
     }
 
-	#cakeImage {
-		display: none;
-	}
+
 
     /*controlling tablet width*/
     /*@media only screen and (max-width: 720px){
