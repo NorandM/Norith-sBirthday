@@ -215,6 +215,7 @@ $('document').ready(function(){
 });
 
 
+document.getElementById("cakeImage").style.display = "block";
 
 
 //alert('hello');
